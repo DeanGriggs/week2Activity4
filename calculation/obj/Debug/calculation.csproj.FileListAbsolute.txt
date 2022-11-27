@@ -1,0 +1,11 @@
+C:\dean\School\cst-150\calculation\calculation\bin\Debug\calculation.exe.config
+C:\dean\School\cst-150\calculation\calculation\bin\Debug\calculation.exe
+C:\dean\School\cst-150\calculation\calculation\bin\Debug\calculation.pdb
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.csproj.AssemblyReference.cache
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.csproj.SuggestedBindingRedirects.cache
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.exe
+C:\dean\School\cst-150\calculation\calculation\obj\Debug\calculation.pdb
